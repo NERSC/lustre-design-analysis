@@ -297,3 +297,6 @@ using the `histogram.py` tool:
 [NERSC Cori]: http://www.nersc.gov/users/computational-systems/cori/configuration/
 [mysqldump2csv]: https://github.com/jamesmishra/mysqldump-to-csv
 [gpfsinodedumpdocs]: https://sites.google.com/a/lbl.gov/glennklockwood/holistic-i-o-characterization/gpfs-inode-dumps
+
+[![Build Status](https://travis-ci.org/glennklockwood/lustre-design-analysis.svg?branch=master)](https://travis-ci.org/glennklockwood/lustre-design-analysis)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3244453.svg)](https://doi.org/10.5281/zenodo.3244453)
