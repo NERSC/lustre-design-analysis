@@ -299,4 +299,4 @@ using the `histogram.py` tool:
 [gpfsinodedumpdocs]: https://sites.google.com/a/lbl.gov/glennklockwood/holistic-i-o-characterization/gpfs-inode-dumps
 
 [![Build Status](https://travis-ci.org/glennklockwood/lustre-design-analysis.svg?branch=master)](https://travis-ci.org/glennklockwood/lustre-design-analysis)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3244453.svg)](https://doi.org/10.5281/zenodo.3244453)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3244452.svg)](https://doi.org/10.5281/zenodo.3244452)
